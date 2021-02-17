@@ -1,0 +1,103 @@
+body{
+    background-color:black;
+    padding: 3%;
+}
+.main{
+    background-image: url("back.jpg");
+    background-color: black;
+ 
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+}
+.videogallery{
+    background-color: black;
+}
+.gallery{   
+    background-color: rgb(71, 71, 71);
+}
+
+.landing{
+    border: white;
+    border-width: 5px;
+}
+
+.image{
+    width: 800px;
+    height: 600px;
+    border:10 px;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+h2{
+    color: ivory;
+}
+h1{
+    color: antiquewhite;
+    font-size: 500%;
+}
+.maincontent{
+    color: antiquewhite;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
+}
+
+a{
+    color:white;
+    font-size:x-large;
+    font-style: Century Gothic;
+}
+
+button{
+    background-color: blue;
+    border:10px white;
+    border-radius: 1000px;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+video{
+    padding: 5%;
+}
+td{
+    color: cornsilk;
+    padding: 5px;
+    font-style:oblique;
+    font-size: 30px;
+}
+
+ul li{
+    color: ivory;
+    font-size: larger;
+}
+ul{
+    font-size: larger;
+}
+.classsize{
+    color: ivory;
+    size:50px;
+}
+ol{
+    font-size:x-large;
+ padding-left: 50px;
+}
+ol li{
+    color: ivory;
+    padding-left: 2px;
+}
+label{
+    color: azure;
+    font-size: xx-large;
+    padding: 10px;
+
+}
+input{
+    padding: 10px;
+    font-size: x-large;
+}
